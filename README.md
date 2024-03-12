@@ -82,11 +82,11 @@
 
 ###
 
-<div align="center">
-
-
+<div align="left">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnulfovargas&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="arnulfovargas" /></p>
-  
+</div>
+
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=ArnulfoVargas&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
