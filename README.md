@@ -82,8 +82,8 @@
 
 ###
 
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnulfovargas&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="arnulfovargas" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnulfovargas&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="arnulfovargas" height="220"/>
 </div>
 
 <br/>
